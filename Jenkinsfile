@@ -12,7 +12,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-               echo "This is sudha"
+               echo "This is naresh"
             }
         }
     }
